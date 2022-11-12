@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TwoPii, a software developer and data scientist with over 3 years of working experience in .NET solutions.
+- 👋 Hi, I’m @TwoPii, a software developer and data scientist with over 4 years of working experience in .NET solutions.
 - 👀 I’m interested in data science, web applications and mobile applications.
 - 🌱 I’m currently learning Xamarin and Automation of ML pipelines
 
